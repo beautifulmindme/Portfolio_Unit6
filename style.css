@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://www.adampknave.com/words/wp-content/uploads/2011/06/rainbow_glitter_bokeh_texture_by_daftopia-d4ce89t1.jpg");
       background-size: cover;
       color: white;
     }
@@ -9,11 +9,14 @@
     }
     h1 {
       font-size: 70px;
+      
     }
     img {
-      margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      margin: 20px 0px 0px 0px;
+      border: 6px solid white;
+      border-radius: 25px;
+      height:350px;
+      width:450px;
     }
     ul {
       padding: 10px;
@@ -36,5 +39,10 @@
       li {
         padding: 5px;
         display: block;
+      }
+      #Jane{
+        font-size: 70px
+        
+        
       }
     }
