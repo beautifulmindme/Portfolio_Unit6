@@ -9,13 +9,14 @@
     }
     h1 {
       font-size: 70px;
-      }
+      
+    }
     img {
       margin: 20px 0px 0px 0px;
       border: 6px solid white;
       border-radius: 25px;
-      height:300px;
-      width:400px;
+      height:350px;
+      width:450px;
     }
     ul {
       padding: 10px;
